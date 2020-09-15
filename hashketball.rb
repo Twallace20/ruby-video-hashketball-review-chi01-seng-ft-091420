@@ -134,6 +134,7 @@ game_hash.each do |team, team_info|
     if player [:player_name]== player_search
       return player[:points]
 end
+end
 
    
 
